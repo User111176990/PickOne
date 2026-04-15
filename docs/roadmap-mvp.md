@@ -8,7 +8,7 @@
 
 ## Fase 1 — MVP funcional (2–4 semanas)
 
-- Registro/login.
+
 - Crear encuesta con cooldown configurable.
 - Votar y ver resultados inmediatos.
 - Feed con scroll infinito.

@@ -22,6 +22,7 @@ Crear una experiencia adictiva de micro-interacciones donde cada usuario puede:
 - `docs/arquitectura-tecnica.md`: arquitectura propuesta, modelo de datos, API y escalabilidad.
 - `docs/roadmap-mvp.md`: fases de implementación y métricas clave.
 
+
 ## Estado
 
 Documento base de planificación para iniciar implementación de MVP.
