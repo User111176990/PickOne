@@ -8,8 +8,7 @@
 
 ## Fase 1 — MVP funcional (2–4 semanas)
 
-- Registro/login (email + contraseña).
-- Login con Google OAuth (Auth.js/NextAuth).
+
 - Crear encuesta con cooldown configurable.
 - Votar y ver resultados inmediatos.
 - Feed con scroll infinito.

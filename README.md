@@ -21,15 +21,8 @@ Crear una experiencia adictiva de micro-interacciones donde cada usuario puede:
 - `docs/producto-prd.md`: PRD completo (producto, UX, reglas, monetización).
 - `docs/arquitectura-tecnica.md`: arquitectura propuesta, modelo de datos, API y escalabilidad.
 - `docs/roadmap-mvp.md`: fases de implementación y métricas clave.
-- `docs/autenticacion.md`: estado real del login y plan de Google OAuth.
+
 
 ## Estado
 
 Documento base de planificación para iniciar implementación de MVP.
-
-> Nota: a fecha del documento, aún no hay login implementado en código; ver `docs/autenticacion.md`.
-
-
-## Implementación actual
-
-Se añadió un backend MVP real en `backend/` con endpoints de autenticación por email+codigo, login, creación de encuestas, voto y resultados.
